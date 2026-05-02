@@ -1,4 +1,5 @@
-# Pixelmart-QA-Testing-Proje 
+# Pixelmart QA Testing Project (Task 03)
+
 # TEST SUITE 1: Login
 
 Test Case ID: TC_LOGIN_01
