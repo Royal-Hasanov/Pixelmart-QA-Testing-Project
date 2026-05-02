@@ -1,1 +1,0 @@
-# Pixelmart-QA-Testing-Project
